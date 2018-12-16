@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "523903613127491601"; // ايدي السررفر
 var channel = "523903718064783366";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**hhhfddddjnjnjnjsnfshdbfhbshbgfdbshgbhsbdhgbhdsngjndsjmgjmdsjnghdhbshbghbshbgshdngnsjdngjsdnjgndsjngndshbgdsbgndsgnhdbshgbdsbghdbsbghfbshnsjnfjndsjfndsngjmsijmgjdsnhbgdsnfjndsjgnubsdghdsnngdsnghbhdsngndsjvmjdsmjgnhudsgndsjnvijdsngfdshnfndsghbdshvhdnsfnhdbghsdfijndsjgnhdsgdsnjfndsjgnhdsnjfnsdghdsngjdshbgdshnjvnshvbhdusbghhhhhhhhhhhhhhhhhhhh
+    client.guilds.get(server).channels.get(channel).send('** fdgdghfjnjsnfshdbfhbshbgfdbshgbhsbdhgbhdsngjndsjmgjmdsjnghdhbshbghbshbgshdngnsjdngjsdnjgndsjngndshbgdsbgndsgnhdbshgbdsbghdbsbghfbshnsjnfjndsjfndsngjmsijmgjdsnhbgdsnfjndsjgnubsdghdsnngdsnghbhdsngndsjvmjdsmjgnhudsgndsjnvijdsngfdshnfndsghbdshvhdnsfnhdbghsdfijndsjgnhdsgdsnjfndsjgnhdsnjfnsdghdsngjdshbgdshnjvnshvbhdusbghhhhhhhhhhhhhhhhhhhh
 })
 
 client.on('message', message => {

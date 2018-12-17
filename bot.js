@@ -10,18 +10,7 @@ client.on('ready', async() => {
 var server = "523903613127491601"; // ايدي السررفر
 var channel = "523903718064783366";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , 
-Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , ')
-    },305);
-})
+    client.guilds.get(server).channels.get(channel).send('Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream ,Dream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , DreamDream , Dream })
 
 client.on('message', message => {
   if (message.author.bot) return;
